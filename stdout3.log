@@ -1,0 +1,6 @@
+game 0 restart
+send: Broken pipe
+server 1 crush
+send: Broken pipe
+server 2 crush
+game 0 end

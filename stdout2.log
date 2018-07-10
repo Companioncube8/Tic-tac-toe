@@ -1,0 +1,3 @@
+server: connect: Connection refused
+game 0 restart
+send: Broken pipe
